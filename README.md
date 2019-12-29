@@ -6,7 +6,9 @@ Iris image patches used in training and source codes of the method proposed in:
 
 Pre-print available at: https://arxiv.org/abs/1807.05248
 
-Please follow the instructions at https://cvrl.nd.edu/projects/data/ to get a copy of the test database.
+Please follow the instructions at https://cvrl.nd.edu/projects/data/ to get copies of these sets.
+
+WACV_2019_Czajka_etal_Stest_GENUINE.csv and WACV_2019_Czajka_etal_Stest_IMPOSTOR.csv files define genuine and impostor matching pairs used to generate Fig. 12 in the paper.
 
 # Usage 
 
