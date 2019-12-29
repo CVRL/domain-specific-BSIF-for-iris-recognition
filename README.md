@@ -1,4 +1,4 @@
-# Domain-Specific Human-InspiredBinarized Statistical Image Features for Iris Recognition
+# Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition
 
 Iris image patches used in training and source codes of the method proposed in:
 
